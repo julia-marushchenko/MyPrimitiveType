@@ -8,7 +8,7 @@ public class Main {
     // Main class
     public static void main(String[] args) {
 
-        // Creating and initializing local variable
+        // Creating and initializing local variable in stack memory
         int integer_variable = 8;
 
         // Calling method change
